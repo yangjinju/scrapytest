@@ -4,11 +4,6 @@ import scrapy
 from scrapytest import items
 
 '''
-pdd 话题
-https://s.weibo.com/realtime?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%BE%A4%23&rd=realtime&tw=realtime&Refer=weibo_realtime&page=3
-'''
-
-'''
 豆瓣 Top 250
 https://movie.douban.com/top250?start=0&filter=
 '''
